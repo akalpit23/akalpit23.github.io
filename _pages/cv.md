@@ -15,26 +15,27 @@ Education
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * B.Tech. in Mechanical Engineering, VIT University , 2018-2022
 
-Work experience
+Experience 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023: Duke Univeristy
+  * Course Work: 
+  * 
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Duke Univeristy
+  * Course Work:
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2024: Product Management Intern
+  * VNS Health, NY
+  * Duties included: Improving software products, Agile advocate
+  * Supervisor: Mark Bailes
+
+* Fall 2024: Duke Univeristy
+  * Course Work: 
+  * 
 Skills
 ======
-* Skill 1
+* Product Management
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
