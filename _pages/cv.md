@@ -18,7 +18,12 @@ Education
 Experience 
 ======
 * Fall 2023: Duke Univeristy
-  * Course Work: 
+  * Courses Taken:
+    * eLuminate Studios
+    * Competitve strategies in High-Tech Industries
+    * Product Management in High-tech Industries
+    * IP Law
+    * Digital Transformation
   * 
   * 
 
@@ -36,10 +41,10 @@ Experience
 Skills
 ======
 * Product Management
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Product Management
+  * Agile
+  * Asana
+  * PLM
 * Skill 3
 
 Publications
