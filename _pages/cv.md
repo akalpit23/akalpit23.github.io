@@ -20,15 +20,15 @@ Experience
 * Fall 2023: Duke Univeristy
   * Courses Taken:
     * eLuminate Studios
-    * Competitve strategies in High-Tech Industries
+    * Marketing
     * Product Management in High-tech Industries
-    * IP Law
-    * Digital Transformation
   * 
   * 
 
 * Spring 2024: Duke Univeristy
   * Course Work:
+    * Competitve Strategies in High-Tech Industries
+    * IP Law
 
 * Summer 2024: Product Management Intern
   * VNS Health, NY
@@ -37,15 +37,23 @@ Experience
 
 * Fall 2024: Duke Univeristy
   * Course Work: 
-  * 
+    * Digital Transformation
 Skills
 ======
-* Product Management
-* Product Management
+
+* Product Management:
   * Agile
   * Asana
   * PLM
-* Skill 3
+* Project Management :
+* Computer Aided Design(CAD):
+  * SolidWorks
+  * SolidEdge
+  * Altair Inspire
+* Finite Element Analysis (FEA):
+  * nTopology
+  * Fusion 360
+  * Ansys 
 
 Publications
 ======
