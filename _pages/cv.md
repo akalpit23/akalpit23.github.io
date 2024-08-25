@@ -38,7 +38,7 @@ Experience
 * Fall 2024: Duke Univeristy
   * Course Work: 
     * Digital Transformation
-    
+
 Skills
 ======
 
@@ -47,6 +47,8 @@ Skills
   * Asana
   * PLM
 * Project Management :
+  * Asana
+  * Jira
 * Computer Aided Design(CAD):
   * SolidWorks
   * SolidEdge
