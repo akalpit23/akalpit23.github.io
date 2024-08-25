@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-========
+======
 * Master's in Engineering Management, Duke University, 2024 (expected)
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * B.Tech. in Mechanical Engineering, VIT University , 2018-2022
