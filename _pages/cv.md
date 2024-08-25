@@ -54,6 +54,9 @@ Skills
   * nTopology
   * Fusion 360
   * Ansys 
+* Generative Design:
+  * nTopology
+  * Fusion 360
 
 Publications
 ======
