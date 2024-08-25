@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Akalpit Dawkhar"
   pronouns         : # example: "she/her"  
-  bio              : "Strong affinity for the strategic and business aspects of Technology"
+  bio              : ""
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              : # URL
@@ -98,7 +98,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" , "dark"(default)
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
