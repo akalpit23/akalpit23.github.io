@@ -60,7 +60,7 @@ Skills
   * nTopology
   * Fusion 360
 
-Skills
+Languages
 ======
 * Python
 * SQL
