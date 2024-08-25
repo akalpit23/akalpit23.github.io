@@ -60,6 +60,11 @@ Skills
   * nTopology
   * Fusion 360
 
+Skills
+======
+* Python
+* SQL
+
 Projects
 ======
   <ul>{% for post in site.publications reversed %}
