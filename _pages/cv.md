@@ -38,6 +38,7 @@ Experience
 * Fall 2024: Duke Univeristy
   * Course Work: 
     * Digital Transformation
+    
 Skills
 ======
 
