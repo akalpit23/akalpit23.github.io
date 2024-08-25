@@ -22,8 +22,6 @@ Experience
     * eLuminate Studios
     * Marketing
     * Product Management in High-tech Industries
-  * 
-  * 
 
 * Spring 2024: Duke Univeristy
   * Course Work:
@@ -61,7 +59,7 @@ Skills
   * nTopology
   * Fusion 360
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
